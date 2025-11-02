@@ -1,0 +1,1 @@
+# Sprint_6_Manual_Testing_YaPracticum
